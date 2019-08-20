@@ -15,5 +15,22 @@
   "bugs": {
     "url": "https://github.com/saeel123/angular-template/issues"
   },
-  "homepage": "https://github.com/saeel123/angular-template#readme"
+  "homepage": "https://github.com/saeel123/angular-template#readme",
+  "dependencies": {
+    "@angular/animations": "^8.2.2",
+    "@angular/common": "^8.2.2",
+    "@angular/compiler": "^8.2.2",
+    "@angular/compiler-cli": "^8.2.2",
+    "@angular/core": "^8.2.2",
+    "@angular/forms": "^8.2.2",
+    "@angular/http": "^7.2.15",
+    "@angular/platform-browser": "^8.2.2",
+    "@angular/platform-browser-dynamic": "^8.2.2",
+    "@angular/platform-server": "^8.2.2",
+    "@angular/router": "^8.2.2",
+    "@angular/upgrade": "^8.2.2",
+    "core-js": "^3.2.1",
+    "rxjs": "^6.5.2",
+    "zone.js": "^0.10.2"
+  }
 }
